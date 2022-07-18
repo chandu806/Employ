@@ -62,3 +62,11 @@ for(var i=1;i<=5;i++){
     diff++
 }
 
+// *************4
+var company=[c1,c2,c3]
+var salary = [1000,2000,40000]
+var credit=2000
+var k=0;
+while(k<company.length){
+    
+}
